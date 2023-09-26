@@ -26,5 +26,5 @@ function listin2(a)
     x2 = ((x1 << 1) ⊻ x2)
 
     y = [[x1,x2,x3],[x4,x5,x6]]
+    println(y)
 end    
-#hhhhh
